@@ -1,0 +1,1 @@
+print("Sample repository-2 for practice")
